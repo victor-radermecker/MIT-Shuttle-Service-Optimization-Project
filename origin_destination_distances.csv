@@ -1,0 +1,901 @@
+Origin,Destination,Distance,Time (min)
+Baker House,Kendall Square T,2.752,7.6167
+Burton Conner,Kendall Square T,2.578,8.0167
+East Campus,Kendall Square T,0.52,1.85
+MacGregor House,Kendall Square T,2.497,7.9667
+Maseeh Hall,Kendall Square T,1.124,3.9333
+McCormick Hall,Kendall Square T,1.218,4.5333
+New House,Kendall Square T,1.953,5.3667
+Next House,Kendall Square T,1.842,4.8833
+New Vassar,Kendall Square T,1.529,4.8667
+Random Hall,Kendall Square T,1.113,3.8833
+Simmons Hall,Kendall Square T,1.451,3.4833
+70 Amherst Street,Kendall Square T,0.507,1.3167
+Ashdown House,Kendall Square T,1.356,4.0
+Edgerton House,Kendall Square T,1.064,3.2
+Graduate Tower,Kendall Square T,0.808,4.05
+Sidney-Pacific,Kendall Square T,1.467,4.7333
+Tang Hall,Kendall Square T,1.875,5.2333
+The Warehouse,Kendall Square T,1.304,4.3
+Westgate Apartments,Kendall Square T,1.728,4.55
+100 Memorial,Kendall Square T,0.616,3.1333
+Baker House,Wadsworth at Amherst,2.941,7.7833
+Burton Conner,Wadsworth at Amherst,2.767,8.1833
+East Campus,Wadsworth at Amherst,0.331,1.85
+MacGregor House,Wadsworth at Amherst,2.686,8.1333
+Maseeh Hall,Wadsworth at Amherst,1.099,3.2333
+McCormick Hall,Wadsworth at Amherst,1.193,3.8333
+New House,Wadsworth at Amherst,2.255,6.4333
+Next House,Wadsworth at Amherst,2.144,5.95
+New Vassar,Wadsworth at Amherst,1.831,5.9167
+Random Hall,Wadsworth at Amherst,1.415,4.9333
+Simmons Hall,Wadsworth at Amherst,1.753,4.5333
+70 Amherst Street,Wadsworth at Amherst,0.219,1.2333
+Ashdown House,Wadsworth at Amherst,1.658,5.0667
+Edgerton House,Wadsworth at Amherst,1.366,4.25
+Graduate Tower,Wadsworth at Amherst,0.242,1.2833
+Sidney-Pacific,Wadsworth at Amherst,1.769,5.7833
+Tang Hall,Wadsworth at Amherst,1.998,4.2833
+The Warehouse,Wadsworth at Amherst,1.606,5.3667
+Westgate Apartments,Wadsworth at Amherst,2.03,5.6
+100 Memorial,Wadsworth at Amherst,0.277,2.75
+Baker House,Media Lab,3.28,8.5167
+Burton Conner,Media Lab,3.106,8.9167
+East Campus,Media Lab,0.127,0.6
+MacGregor House,Media Lab,3.025,8.8667
+Maseeh Hall,Media Lab,1.438,3.9667
+McCormick Hall,Media Lab,1.532,4.5667
+New House,Media Lab,2.144,6.05
+Next House,Media Lab,2.033,5.5667
+New Vassar,Media Lab,1.72,5.5167
+Random Hall,Media Lab,1.304,4.5333
+Simmons Hall,Media Lab,1.642,4.15
+70 Amherst Street,Media Lab,0.016,0.2667
+Ashdown House,Media Lab,1.547,4.6667
+Edgerton House,Media Lab,1.255,3.85
+Graduate Tower,Media Lab,0.284,2.4833
+Sidney-Pacific,Media Lab,1.658,5.3833
+Tang Hall,Media Lab,2.337,5.0167
+The Warehouse,Media Lab,1.495,4.9667
+Westgate Apartments,Media Lab,1.919,5.2333
+100 Memorial,Media Lab,0.092,1.8167
+Baker House,Media Lab at Ames,2.897,8.35
+Burton Conner,Media Lab at Ames,2.723,8.7667
+East Campus,Media Lab at Ames,0.081,0.7667
+MacGregor House,Media Lab at Ames,2.642,8.7
+Maseeh Hall,Media Lab at Ames,1.364,4.2
+McCormick Hall,Media Lab at Ames,1.458,4.8
+New House,Media Lab at Ames,2.098,6.1167
+Next House,Media Lab at Ames,1.987,5.6333
+New Vassar,Media Lab at Ames,1.674,5.5833
+Random Hall,Media Lab at Ames,1.258,4.6
+Simmons Hall,Media Lab at Ames,1.596,4.2167
+70 Amherst Street,Media Lab at Ames,0.068,0.9833
+Ashdown House,Media Lab at Ames,1.501,4.7333
+Edgerton House,Media Lab at Ames,1.209,3.9167
+Graduate Tower,Media Lab at Ames,0.369,3.4833
+Sidney-Pacific,Media Lab at Ames,1.612,5.45
+Tang Hall,Media Lab at Ames,2.263,5.25
+The Warehouse,Media Lab at Ames,1.449,5.0333
+Westgate Apartments,Media Lab at Ames,1.873,5.3
+100 Memorial,Media Lab at Ames,0.177,2.8
+Baker House,Amherst at Kresge,2.303,6.8
+Burton Conner,Amherst at Kresge,2.129,7.2
+East Campus,Amherst at Kresge,0.837,2.9833
+MacGregor House,Amherst at Kresge,2.048,7.15
+Maseeh Hall,Amherst at Kresge,0.052,0.2667
+McCormick Hall,Amherst at Kresge,0.04,0.4167
+New House,Amherst at Kresge,1.504,4.55
+Next House,Amherst at Kresge,1.393,4.0667
+New Vassar,Amherst at Kresge,1.126,4.2833
+Random Hall,Amherst at Kresge,0.71,3.0333
+Simmons Hall,Amherst at Kresge,1.002,2.6667
+70 Amherst Street,Amherst at Kresge,0.824,3.2
+Ashdown House,Amherst at Kresge,0.953,3.4333
+Edgerton House,Amherst at Kresge,0.661,2.6167
+Graduate Tower,Amherst at Kresge,1.285,4.1167
+Sidney-Pacific,Amherst at Kresge,1.064,4.15
+Tang Hall,Amherst at Kresge,1.426,4.4167
+The Warehouse,Amherst at Kresge,0.901,3.7333
+Westgate Apartments,Amherst at Kresge,1.279,3.7333
+100 Memorial,Amherst at Kresge,0.933,5.0167
+Baker House,Burton/MacGregor,0.34,3.2833
+Burton Conner,Burton/MacGregor,0.154,1.7667
+East Campus,Burton/MacGregor,1.321,3.2833
+MacGregor House,Burton/MacGregor,0.007,0.1167
+Maseeh Hall,Burton/MacGregor,0.775,2.65
+McCormick Hall,Burton/MacGregor,0.623,2.9833
+New House,Burton/MacGregor,0.104,1.7333
+Next House,Burton/MacGregor,0.214,1.9
+New Vassar,Burton/MacGregor,1.784,6.1167
+Random Hall,Burton/MacGregor,1.368,4.8667
+Simmons Hall,Burton/MacGregor,1.66,4.5
+70 Amherst Street,Burton/MacGregor,1.308,3.5
+Ashdown House,Burton/MacGregor,1.611,5.25
+Edgerton House,Burton/MacGregor,1.319,4.45
+Graduate Tower,Burton/MacGregor,1.769,4.4167
+Sidney-Pacific,Burton/MacGregor,1.722,5.9833
+Tang Hall,Burton/MacGregor,1.039,3.65
+The Warehouse,Burton/MacGregor,1.559,5.55
+Westgate Apartments,Burton/MacGregor,0.329,2.1833
+100 Memorial,Burton/MacGregor,1.417,5.3167
+Baker House,Tang/Westgate,0.604,4.2667
+Burton Conner,Tang/Westgate,0.418,2.7333
+East Campus,Tang/Westgate,2.11,5.1667
+MacGregor House,Tang/Westgate,0.256,0.9667
+Maseeh Hall,Tang/Westgate,1.564,4.55
+McCormick Hall,Tang/Westgate,1.412,4.1333
+New House,Tang/Westgate,0.159,0.9667
+Next House,Tang/Westgate,0.048,0.8
+New Vassar,Tang/Westgate,1.75,5.65
+Random Hall,Tang/Westgate,1.334,4.3833
+Simmons Hall,Tang/Westgate,0.341,1.35
+70 Amherst Street,Tang/Westgate,2.097,5.3833
+Ashdown House,Tang/Westgate,1.577,4.7833
+Edgerton House,Tang/Westgate,1.285,3.9833
+Graduate Tower,Tang/Westgate,2.558,6.3167
+Sidney-Pacific,Tang/Westgate,1.688,5.5167
+Tang Hall,Tang/Westgate,0.384,2.1
+The Warehouse,Tang/Westgate,1.525,5.0833
+Westgate Apartments,Tang/Westgate,0.065,0.5167
+100 Memorial,Tang/Westgate,2.206,7.2
+Baker House,W98 at Vassar St,1.209,3.3333
+Burton Conner,W98 at Vassar St,1.035,3.75
+East Campus,W98 at Vassar St,2.058,4.1167
+MacGregor House,W98 at Vassar St,0.954,3.7
+Maseeh Hall,W98 at Vassar St,1.512,3.5
+McCormick Hall,W98 at Vassar St,1.36,3.0833
+New House,W98 at Vassar St,1.051,3.7
+Next House,W98 at Vassar St,0.54,1.8667
+New Vassar,W98 at Vassar St,1.939,5.3333
+Random Hall,W98 at Vassar St,1.523,4.0833
+Simmons Hall,W98 at Vassar St,0.53,1.0333
+70 Amherst Street,W98 at Vassar St,2.045,4.3333
+Ashdown House,W98 at Vassar St,1.766,4.4833
+Edgerton House,W98 at Vassar St,1.474,3.6667
+Graduate Tower,W98 at Vassar St,2.506,5.2667
+Sidney-Pacific,W98 at Vassar St,1.877,5.2
+Tang Hall,W98 at Vassar St,0.482,1.6
+The Warehouse,W98 at Vassar St,1.714,4.7833
+Westgate Apartments,W98 at Vassar St,0.426,1.5167
+100 Memorial,W98 at Vassar St,2.154,6.15
+Baker House,W92 at Amesbury St,1.341,3.4833
+Burton Conner,W92 at Amesbury St,1.167,3.8833
+East Campus,W92 at Amesbury St,2.19,4.25
+MacGregor House,W92 at Amesbury St,1.086,3.8333
+Maseeh Hall,W92 at Amesbury St,1.644,3.6333
+McCormick Hall,W92 at Amesbury St,1.492,3.2167
+New House,W92 at Amesbury St,0.519,2.0833
+Next House,W92 at Amesbury St,0.408,1.6
+New Vassar,W92 at Amesbury St,1.807,5.0833
+Random Hall,W92 at Amesbury St,1.391,3.8333
+Simmons Hall,W92 at Amesbury St,0.398,0.7833
+70 Amherst Street,W92 at Amesbury St,2.177,4.4667
+Ashdown House,W92 at Amesbury St,1.634,4.2167
+Edgerton House,W92 at Amesbury St,1.342,3.4167
+Graduate Tower,W92 at Amesbury St,2.638,5.4
+Sidney-Pacific,W92 at Amesbury St,1.745,4.95
+Tang Hall,W92 at Amesbury St,0.223,1.4167
+The Warehouse,W92 at Amesbury St,1.582,4.5167
+Westgate Apartments,W92 at Amesbury St,0.294,1.2667
+100 Memorial,W92 at Amesbury St,2.286,6.2833
+Baker House,Simmons Hall,1.389,3.9
+Burton Conner,Simmons Hall,1.215,4.3
+East Campus,Simmons Hall,1.568,4.7333
+MacGregor House,Simmons Hall,1.134,4.25
+Maseeh Hall,Simmons Hall,0.868,3.0
+McCormick Hall,Simmons Hall,0.962,3.6
+New House,Simmons Hall,0.59,1.8167
+Next House,Simmons Hall,0.479,1.3333
+New Vassar,Simmons Hall,1.319,3.9667
+Random Hall,Simmons Hall,0.903,2.7167
+Simmons Hall,Simmons Hall,0.089,1.4833
+70 Amherst Street,Simmons Hall,1.555,4.95
+Ashdown House,Simmons Hall,1.146,3.1167
+Edgerton House,Simmons Hall,0.854,2.3
+Graduate Tower,Simmons Hall,2.016,5.8667
+Sidney-Pacific,Simmons Hall,1.257,3.8333
+Tang Hall,Simmons Hall,0.512,1.6
+The Warehouse,Simmons Hall,1.094,3.4167
+Westgate Apartments,Simmons Hall,0.365,1.0
+100 Memorial,Simmons Hall,1.664,6.7667
+Baker House,New Vassar Dorm,1.7,4.5833
+Burton Conner,New Vassar Dorm,1.526,4.9833
+East Campus,New Vassar Dorm,1.257,4.3667
+MacGregor House,New Vassar Dorm,1.445,4.9333
+Maseeh Hall,New Vassar Dorm,0.557,2.6333
+McCormick Hall,New Vassar Dorm,0.651,3.2333
+New House,New Vassar Dorm,0.901,2.3333
+Next House,New Vassar Dorm,0.79,1.85
+New Vassar,New Vassar Dorm,1.008,3.6
+Random Hall,New Vassar Dorm,0.592,2.35
+Simmons Hall,New Vassar Dorm,0.399,0.45
+70 Amherst Street,New Vassar Dorm,1.244,4.5667
+Ashdown House,New Vassar Dorm,0.835,2.7333
+Edgerton House,New Vassar Dorm,0.543,1.9333
+Graduate Tower,New Vassar Dorm,1.705,5.5
+Sidney-Pacific,New Vassar Dorm,0.946,3.4667
+Tang Hall,New Vassar Dorm,0.823,2.2
+The Warehouse,New Vassar Dorm,0.783,3.0333
+Westgate Apartments,New Vassar Dorm,0.676,1.5167
+100 Memorial,New Vassar Dorm,1.353,6.3833
+Baker House,Vassar St at Mass Ave,2.029,5.75
+Burton Conner,Vassar St at Mass Ave,1.855,6.1667
+East Campus,Vassar St at Mass Ave,1.101,3.7833
+MacGregor House,Vassar St at Mass Ave,1.774,6.1167
+Maseeh Hall,Vassar St at Mass Ave,0.401,2.05
+McCormick Hall,Vassar St at Mass Ave,0.495,2.65
+New House,Vassar St at Mass Ave,1.23,3.5167
+Next House,Vassar St at Mass Ave,1.119,3.0333
+New Vassar,Vassar St at Mass Ave,0.852,3.5167
+Random Hall,Vassar St at Mass Ave,0.436,2.2667
+Simmons Hall,Vassar St at Mass Ave,0.728,1.6167
+70 Amherst Street,Vassar St at Mass Ave,0.903,3.25
+Ashdown House,Vassar St at Mass Ave,0.679,2.65
+Edgerton House,Vassar St at Mass Ave,0.387,1.85
+Graduate Tower,Vassar St at Mass Ave,1.549,4.9167
+Sidney-Pacific,Vassar St at Mass Ave,0.79,3.3833
+Tang Hall,Vassar St at Mass Ave,1.152,3.3833
+The Warehouse,Vassar St at Mass Ave,0.627,2.95
+Westgate Apartments,Vassar St at Mass Ave,1.005,2.7
+100 Memorial,Vassar St at Mass Ave,1.012,5.0667
+Baker House,Main at Vassar,2.468,6.9
+Burton Conner,Main at Vassar,2.294,7.3
+East Campus,Main at Vassar,1.013,4.9
+MacGregor House,Main at Vassar,2.213,7.25
+Maseeh Hall,Main at Vassar,0.84,3.2333
+McCormick Hall,Main at Vassar,0.934,3.8333
+New House,Main at Vassar,1.669,4.6667
+Next House,Main at Vassar,1.558,4.1833
+New Vassar,Main at Vassar,1.245,4.0833
+Random Hall,Main at Vassar,0.829,3.0833
+Simmons Hall,Main at Vassar,1.167,2.7667
+70 Amherst Street,Main at Vassar,1.0,4.3667
+Ashdown House,Main at Vassar,1.072,3.2167
+Edgerton House,Main at Vassar,0.78,2.4167
+Graduate Tower,Main at Vassar,1.988,6.1
+Sidney-Pacific,Main at Vassar,1.183,3.95
+Tang Hall,Main at Vassar,1.591,4.5333
+The Warehouse,Main at Vassar,1.02,3.5167
+Westgate Apartments,Main at Vassar,1.444,3.8333
+100 Memorial,Main at Vassar,1.109,6.1833
+Baker House,Baker House,0.0,0.0
+Burton Conner,Baker House,2.322,9.2333
+East Campus,Baker House,0.979,3.4333
+MacGregor House,Baker House,2.241,9.1667
+Maseeh Hall,Baker House,0.245,2.2333
+McCormick Hall,Baker House,0.151,1.6833
+New House,Baker House,1.697,6.5833
+Next House,Baker House,1.586,6.1
+New Vassar,Baker House,1.319,6.3167
+Random Hall,Baker House,0.903,5.05
+Simmons Hall,Baker House,1.195,4.6833
+70 Amherst Street,Baker House,0.966,3.65
+Ashdown House,Baker House,1.146,5.45
+Edgerton House,Baker House,0.854,4.65
+Graduate Tower,Baker House,1.427,4.5833
+Sidney-Pacific,Baker House,1.257,6.1833
+Tang Hall,Baker House,2.368,5.6167
+The Warehouse,Baker House,1.094,5.75
+Westgate Apartments,Baker House,1.472,5.7667
+100 Memorial,Baker House,1.075,5.4667
+Baker House,Burton Conner,0.185,1.5167
+Burton Conner,Burton Conner,0.0,0.0
+East Campus,Burton Conner,1.162,3.0667
+MacGregor House,Burton Conner,2.547,8.7833
+Maseeh Hall,Burton Conner,0.431,2.2667
+McCormick Hall,Burton Conner,0.337,1.7167
+New House,Burton Conner,2.003,6.1833
+Next House,Burton Conner,1.892,5.7
+New Vassar,Burton Conner,1.625,5.9
+Random Hall,Burton Conner,1.209,4.65
+Simmons Hall,Burton Conner,1.501,4.2833
+70 Amherst Street,Burton Conner,1.149,3.2833
+Ashdown House,Burton Conner,1.452,5.0333
+Edgerton House,Burton Conner,1.16,4.2333
+Graduate Tower,Burton Conner,1.61,4.2167
+Sidney-Pacific,Burton Conner,1.563,5.7667
+Tang Hall,Burton Conner,2.551,5.25
+The Warehouse,Burton Conner,1.4,5.3333
+Westgate Apartments,Burton Conner,1.778,5.3667
+100 Memorial,Burton Conner,1.258,5.1
+Baker House,East Campus,2.94,8.6167
+Burton Conner,East Campus,2.766,9.0167
+East Campus,East Campus,0.0,0.0
+MacGregor House,East Campus,2.685,8.9667
+Maseeh Hall,East Campus,1.435,4.6
+McCormick Hall,East Campus,1.529,5.1833
+New House,East Campus,2.141,6.3667
+Next House,East Campus,2.03,5.8833
+New Vassar,East Campus,1.717,5.85
+Random Hall,East Campus,1.301,4.85
+Simmons Hall,East Campus,1.639,4.4833
+70 Amherst Street,East Campus,0.111,0.9333
+Ashdown House,East Campus,1.544,4.9833
+Edgerton House,East Campus,1.252,4.1833
+Graduate Tower,East Campus,0.412,3.4333
+Sidney-Pacific,East Campus,1.655,5.7167
+Tang Hall,East Campus,2.334,5.6333
+The Warehouse,East Campus,1.492,5.2833
+Westgate Apartments,East Campus,1.916,5.55
+100 Memorial,East Campus,0.22,2.75
+Baker House,MacGregor House,0.347,3.2833
+Burton Conner,MacGregor House,0.161,1.7667
+East Campus,MacGregor House,1.328,3.2833
+MacGregor House,MacGregor House,0.0,0.0
+Maseeh Hall,MacGregor House,0.782,2.65
+McCormick Hall,MacGregor House,0.63,2.9833
+New House,MacGregor House,0.096,1.6
+Next House,MacGregor House,0.207,1.9
+New Vassar,MacGregor House,1.791,6.1167
+Random Hall,MacGregor House,1.375,4.8667
+Simmons Hall,MacGregor House,0.598,3.0167
+70 Amherst Street,MacGregor House,1.315,3.5
+Ashdown House,MacGregor House,1.618,5.25
+Edgerton House,MacGregor House,1.326,4.45
+Graduate Tower,MacGregor House,1.776,4.4167
+Sidney-Pacific,MacGregor House,1.729,5.9833
+Tang Hall,MacGregor House,1.046,3.65
+The Warehouse,MacGregor House,1.566,5.55
+Westgate Apartments,MacGregor House,0.322,2.1833
+100 Memorial,MacGregor House,1.424,5.3167
+Baker House,Maseeh Hall,2.25,6.5833
+Burton Conner,Maseeh Hall,2.076,7.0
+East Campus,Maseeh Hall,0.784,2.7833
+MacGregor House,Maseeh Hall,1.995,6.95
+Maseeh Hall,Maseeh Hall,0.0,0.0
+McCormick Hall,Maseeh Hall,0.093,0.65
+New House,Maseeh Hall,1.451,4.35
+Next House,Maseeh Hall,1.34,3.8667
+New Vassar,Maseeh Hall,1.073,4.0833
+Random Hall,Maseeh Hall,0.657,2.8333
+Simmons Hall,Maseeh Hall,0.949,2.45
+70 Amherst Street,Maseeh Hall,0.771,3.0
+Ashdown House,Maseeh Hall,0.9,3.2167
+Edgerton House,Maseeh Hall,0.608,2.4167
+Graduate Tower,Maseeh Hall,1.232,3.9167
+Sidney-Pacific,Maseeh Hall,1.011,3.95
+Tang Hall,Maseeh Hall,1.373,4.2167
+The Warehouse,Maseeh Hall,0.848,3.5167
+Westgate Apartments,Maseeh Hall,1.226,3.5333
+100 Memorial,Maseeh Hall,0.88,4.8167
+Baker House,McCormick Hall,2.344,7.0667
+Burton Conner,McCormick Hall,2.17,7.4833
+East Campus,McCormick Hall,1.006,2.9167
+MacGregor House,McCormick Hall,2.089,7.4333
+Maseeh Hall,McCormick Hall,0.093,0.5333
+McCormick Hall,McCormick Hall,0.0,0.0
+New House,McCormick Hall,1.545,4.8333
+Next House,McCormick Hall,1.434,4.35
+New Vassar,McCormick Hall,1.167,4.5667
+Random Hall,McCormick Hall,0.751,3.3167
+Simmons Hall,McCormick Hall,1.043,2.9333
+70 Amherst Street,McCormick Hall,0.993,3.1333
+Ashdown House,McCormick Hall,0.994,3.7
+Edgerton House,McCormick Hall,0.702,2.9
+Graduate Tower,McCormick Hall,1.454,4.0667
+Sidney-Pacific,McCormick Hall,1.105,4.4333
+Tang Hall,McCormick Hall,1.467,4.7
+The Warehouse,McCormick Hall,0.942,4.0
+Westgate Apartments,McCormick Hall,1.32,4.0167
+100 Memorial,McCormick Hall,1.102,4.95
+Baker House,New House,0.444,3.2833
+Burton Conner,New House,0.258,1.7667
+East Campus,New House,1.425,3.2833
+MacGregor House,New House,0.096,1.6
+Maseeh Hall,New House,0.879,2.65
+McCormick Hall,New House,0.727,2.9833
+New House,New House,0.0,0.0
+Next House,New House,0.11,1.9
+New Vassar,New House,1.888,6.1167
+Random Hall,New House,1.472,4.8667
+Simmons Hall,New House,0.501,3.0167
+70 Amherst Street,New House,1.412,3.5
+Ashdown House,New House,1.715,5.25
+Edgerton House,New House,1.423,4.45
+Graduate Tower,New House,1.873,4.4167
+Sidney-Pacific,New House,1.826,5.9833
+Tang Hall,New House,0.544,3.7667
+The Warehouse,New House,1.663,5.55
+Westgate Apartments,New House,0.225,2.1833
+100 Memorial,New House,1.521,5.3167
+Baker House,Next House,0.555,4.2667
+Burton Conner,Next House,0.369,2.7333
+East Campus,Next House,1.536,4.25
+MacGregor House,Next House,0.207,0.9667
+Maseeh Hall,Next House,0.99,3.6333
+McCormick Hall,Next House,0.838,3.9667
+New House,Next House,0.11,0.9667
+Next House,Next House,0.0,0.0
+New Vassar,Next House,1.799,5.65
+Random Hall,Next House,1.383,4.3833
+Simmons Hall,Next House,0.39,1.35
+70 Amherst Street,Next House,1.523,4.4667
+Ashdown House,Next House,1.626,4.7833
+Edgerton House,Next House,1.334,3.9833
+Graduate Tower,Next House,1.984,5.4
+Sidney-Pacific,Next House,1.737,5.5167
+Tang Hall,Next House,0.433,2.1
+The Warehouse,Next House,1.574,5.0833
+Westgate Apartments,Next House,0.114,0.5167
+100 Memorial,Next House,1.632,6.2833
+Baker House,New Vassar,2.76,8.15
+Burton Conner,New Vassar,2.586,8.5667
+East Campus,New Vassar,1.781,7.55
+MacGregor House,New Vassar,2.505,8.5
+Maseeh Hall,New Vassar,1.081,5.8167
+McCormick Hall,New Vassar,1.175,6.4167
+New House,New Vassar,2.602,8.5
+Next House,New Vassar,1.799,7.0
+New Vassar,New Vassar,0.0,0.0
+Random Hall,New Vassar,0.878,4.3
+Simmons Hall,New Vassar,1.408,5.5833
+70 Amherst Street,New Vassar,1.71,7.1167
+Ashdown House,New Vassar,0.325,2.05
+Edgerton House,New Vassar,0.464,2.6333
+Graduate Tower,New Vassar,2.229,8.6333
+Sidney-Pacific,New Vassar,0.436,2.9667
+Tang Hall,New Vassar,2.033,6.45
+The Warehouse,New Vassar,0.224,1.75
+Westgate Apartments,New Vassar,1.685,6.6667
+100 Memorial,New Vassar,1.819,8.9333
+Baker House,Random Hall,2.293,7.0667
+Burton Conner,Random Hall,2.119,7.4667
+East Campus,Random Hall,1.365,4.9
+MacGregor House,Random Hall,2.038,7.4167
+Maseeh Hall,Random Hall,0.665,3.1667
+McCormick Hall,Random Hall,0.759,3.7667
+New House,Random Hall,1.494,4.8333
+Next House,Random Hall,1.383,4.35
+New Vassar,Random Hall,0.878,3.4
+Random Hall,Random Hall,0.0,0.0
+Simmons Hall,Random Hall,0.992,2.9333
+70 Amherst Street,Random Hall,1.352,5.1
+Ashdown House,Random Hall,0.705,2.5333
+Edgerton House,Random Hall,0.413,1.7333
+Graduate Tower,Random Hall,1.813,5.9833
+Sidney-Pacific,Random Hall,0.576,2.0667
+Tang Hall,Random Hall,1.416,4.7
+The Warehouse,Random Hall,0.653,2.8333
+Westgate Apartments,Random Hall,1.269,4.0
+100 Memorial,Random Hall,1.461,6.9167
+Baker House,70 Amherst Street,3.264,8.5167
+Burton Conner,70 Amherst Street,3.09,8.9167
+East Campus,70 Amherst Street,0.111,0.6
+MacGregor House,70 Amherst Street,3.009,8.8667
+Maseeh Hall,70 Amherst Street,1.422,3.9667
+McCormick Hall,70 Amherst Street,1.516,4.5667
+New House,70 Amherst Street,2.128,6.05
+Next House,70 Amherst Street,2.017,5.5667
+New Vassar,70 Amherst Street,1.704,5.5167
+Random Hall,70 Amherst Street,1.288,4.5333
+Simmons Hall,70 Amherst Street,1.626,4.15
+70 Amherst Street,70 Amherst Street,0.0,0.0
+Ashdown House,70 Amherst Street,1.531,4.6667
+Edgerton House,70 Amherst Street,1.239,3.85
+Graduate Tower,70 Amherst Street,0.3,2.4833
+Sidney-Pacific,70 Amherst Street,1.642,5.3833
+Tang Hall,70 Amherst Street,2.321,5.0167
+The Warehouse,70 Amherst Street,1.479,4.9667
+Westgate Apartments,70 Amherst Street,1.903,5.2333
+100 Memorial,70 Amherst Street,0.108,1.8167
+Baker House,Ashdown House,2.435,6.1333
+Burton Conner,Ashdown House,2.261,6.5333
+East Campus,Ashdown House,1.608,5.6333
+MacGregor House,Ashdown House,2.18,6.4833
+Maseeh Hall,Ashdown House,0.908,3.9
+McCormick Hall,Ashdown House,1.002,4.5
+New House,Ashdown House,2.277,6.4833
+Next House,Ashdown House,1.626,5.0833
+New Vassar,Ashdown House,0.325,1.5
+Random Hall,Ashdown House,0.705,2.3833
+Simmons Hall,Ashdown House,1.235,3.6667
+70 Amherst Street,Ashdown House,1.537,5.2
+Ashdown House,Ashdown House,0.0,0.0
+Edgerton House,Ashdown House,0.291,0.7167
+Graduate Tower,Ashdown House,2.056,6.7
+Sidney-Pacific,Ashdown House,0.263,0.8
+Tang Hall,Ashdown House,1.708,4.4333
+The Warehouse,Ashdown House,0.1,0.9333
+Westgate Apartments,Ashdown House,1.512,4.75
+100 Memorial,Ashdown House,1.646,7.0167
+Baker House,Edgerton House,2.726,6.8667
+Burton Conner,Edgerton House,2.552,7.2667
+East Campus,Edgerton House,1.316,4.8
+MacGregor House,Edgerton House,2.471,7.2167
+Maseeh Hall,Edgerton House,0.616,3.0667
+McCormick Hall,Edgerton House,0.71,3.6667
+New House,Edgerton House,1.445,4.7333
+Next House,Edgerton House,1.334,4.25
+New Vassar,Edgerton House,0.464,1.5667
+Random Hall,Edgerton House,0.413,1.55
+Simmons Hall,Edgerton House,0.943,2.8333
+70 Amherst Street,Edgerton House,1.245,4.3667
+Ashdown House,Edgerton House,0.291,0.7
+Edgerton House,Edgerton House,0.0,0.0
+Graduate Tower,Edgerton House,1.764,5.8667
+Sidney-Pacific,Edgerton House,0.402,1.4333
+Tang Hall,Edgerton House,1.367,4.6
+The Warehouse,Edgerton House,0.239,1.0
+Westgate Apartments,Edgerton House,1.22,3.9167
+100 Memorial,Edgerton House,1.354,6.1833
+Baker House,Graduate Tower,2.858,7.9833
+Burton Conner,Graduate Tower,2.684,8.3833
+East Campus,Graduate Tower,0.626,2.2167
+MacGregor House,Graduate Tower,2.603,8.3333
+Maseeh Hall,Graduate Tower,1.23,4.3167
+McCormick Hall,Graduate Tower,1.324,4.9167
+New House,Graduate Tower,2.059,5.75
+Next House,Graduate Tower,1.948,5.2667
+New Vassar,Graduate Tower,1.635,5.2333
+Random Hall,Graduate Tower,1.219,4.25
+Simmons Hall,Graduate Tower,1.557,3.85
+70 Amherst Street,Graduate Tower,0.613,1.6833
+Ashdown House,Graduate Tower,1.462,4.3833
+Edgerton House,Graduate Tower,1.17,3.5667
+Graduate Tower,Graduate Tower,0.0,0.0
+Sidney-Pacific,Graduate Tower,1.573,5.1
+Tang Hall,Graduate Tower,2.214,6.6167
+The Warehouse,Graduate Tower,1.41,4.6833
+Westgate Apartments,Graduate Tower,1.834,4.9167
+100 Memorial,Graduate Tower,0.358,4.4167
+Baker House,Sidney-Pacific,2.552,6.75
+Burton Conner,Sidney-Pacific,2.378,7.15
+East Campus,Sidney-Pacific,1.719,6.1667
+MacGregor House,Sidney-Pacific,2.297,7.1
+Maseeh Hall,Sidney-Pacific,1.019,4.4333
+McCormick Hall,Sidney-Pacific,1.113,5.0333
+New House,Sidney-Pacific,2.394,7.1
+Next House,Sidney-Pacific,1.737,5.6167
+New Vassar,Sidney-Pacific,0.436,1.6833
+Random Hall,Sidney-Pacific,0.479,1.9833
+Simmons Hall,Sidney-Pacific,1.346,4.2
+70 Amherst Street,Sidney-Pacific,1.648,5.7333
+Ashdown House,Sidney-Pacific,0.263,1.0833
+Edgerton House,Sidney-Pacific,0.402,1.2333
+Graduate Tower,Sidney-Pacific,2.167,7.25
+Sidney-Pacific,Sidney-Pacific,0.0,0.0
+Tang Hall,Sidney-Pacific,1.825,5.05
+The Warehouse,Sidney-Pacific,0.211,1.1167
+Westgate Apartments,Sidney-Pacific,1.623,5.2833
+100 Memorial,Sidney-Pacific,1.757,7.55
+Baker House,Tang Hall,0.877,3.0333
+Burton Conner,Tang Hall,0.703,3.4333
+East Campus,Tang Hall,1.726,3.8167
+MacGregor House,Tang Hall,0.622,3.3833
+Maseeh Hall,Tang Hall,1.18,3.1833
+McCormick Hall,Tang Hall,1.028,2.7833
+New House,Tang Hall,0.719,3.3833
+Next House,Tang Hall,0.433,2.1
+New Vassar,Tang Hall,1.832,5.5833
+Random Hall,Tang Hall,1.416,4.3167
+Simmons Hall,Tang Hall,0.423,1.2833
+70 Amherst Street,Tang Hall,1.713,4.0167
+Ashdown House,Tang Hall,1.659,4.7167
+Edgerton House,Tang Hall,1.367,3.9167
+Graduate Tower,Tang Hall,2.174,4.95
+Sidney-Pacific,Tang Hall,1.77,5.45
+Tang Hall,Tang Hall,0.0,0.0
+The Warehouse,Tang Hall,1.607,5.0167
+Westgate Apartments,Tang Hall,0.319,1.75
+100 Memorial,Tang Hall,1.822,5.8333
+Baker House,The Warehouse,2.535,6.3833
+Burton Conner,The Warehouse,2.361,6.8
+East Campus,The Warehouse,1.556,5.7833
+MacGregor House,The Warehouse,2.28,6.75
+Maseeh Hall,The Warehouse,0.856,4.05
+McCormick Hall,The Warehouse,0.95,4.65
+New House,The Warehouse,2.377,6.75
+Next House,The Warehouse,1.574,5.2333
+New Vassar,The Warehouse,0.224,0.55
+Random Hall,The Warehouse,0.653,2.5333
+Simmons Hall,The Warehouse,1.183,3.8333
+70 Amherst Street,The Warehouse,1.485,5.35
+Ashdown House,The Warehouse,0.1,0.2833
+Edgerton House,The Warehouse,0.239,0.8833
+Graduate Tower,The Warehouse,2.004,6.8667
+Sidney-Pacific,The Warehouse,0.211,1.2
+Tang Hall,The Warehouse,1.808,4.6833
+The Warehouse,The Warehouse,0.0,0.0
+Westgate Apartments,The Warehouse,1.46,4.9
+100 Memorial,The Warehouse,1.594,7.1667
+Baker House,Westgate Apartments,1.196,3.8667
+Burton Conner,Westgate Apartments,1.022,4.2833
+East Campus,Westgate Apartments,2.045,4.65
+MacGregor House,Westgate Apartments,0.321,0.8167
+Maseeh Hall,Westgate Apartments,1.499,4.0333
+McCormick Hall,Westgate Apartments,1.347,3.6167
+New House,Westgate Apartments,0.224,0.8167
+Next House,Westgate Apartments,0.113,0.3333
+New Vassar,Westgate Apartments,1.685,5.1333
+Random Hall,Westgate Apartments,1.269,3.8667
+Simmons Hall,Westgate Apartments,0.276,0.8333
+70 Amherst Street,Westgate Apartments,2.032,4.8667
+Ashdown House,Westgate Apartments,1.512,4.2667
+Edgerton House,Westgate Apartments,1.22,3.4667
+Graduate Tower,Westgate Apartments,2.493,5.8
+Sidney-Pacific,Westgate Apartments,1.623,5.0
+Tang Hall,Westgate Apartments,0.319,1.5833
+The Warehouse,Westgate Apartments,1.46,4.5667
+Westgate Apartments,Westgate Apartments,0.0,0.0
+100 Memorial,Westgate Apartments,2.141,6.6833
+Baker House,100 Memorial,3.373,10.0333
+Burton Conner,100 Memorial,3.199,10.45
+East Campus,100 Memorial,0.22,2.1167
+MacGregor House,100 Memorial,3.118,10.3833
+Maseeh Hall,100 Memorial,1.531,5.5
+McCormick Hall,100 Memorial,1.625,6.0833
+New House,100 Memorial,2.237,7.5667
+Next House,100 Memorial,2.126,7.0833
+New Vassar,100 Memorial,1.813,7.05
+Random Hall,100 Memorial,1.397,6.05
+Simmons Hall,100 Memorial,1.735,5.6667
+70 Amherst Street,100 Memorial,0.108,1.5167
+Ashdown House,100 Memorial,1.64,6.1833
+Edgerton House,100 Memorial,1.348,5.3833
+Graduate Tower,100 Memorial,0.358,4.1167
+Sidney-Pacific,100 Memorial,1.751,6.9167
+Tang Hall,100 Memorial,2.43,6.5333
+The Warehouse,100 Memorial,1.588,6.4833
+Westgate Apartments,100 Memorial,2.012,6.75
+100 Memorial,100 Memorial,0.0,0.0
+Baker House,MIT Chapel,2.324,7.3833
+Burton Conner,MIT Chapel,2.15,7.7833
+East Campus,MIT Chapel,0.858,3.5667
+MacGregor House,MIT Chapel,2.069,7.7333
+Maseeh Hall,MIT Chapel,0.073,1.0167
+McCormick Hall,MIT Chapel,0.144,1.7833
+New House,MIT Chapel,1.525,5.15
+Next House,MIT Chapel,1.414,4.6667
+New Vassar,MIT Chapel,1.147,4.8833
+Random Hall,MIT Chapel,0.731,3.6167
+Simmons Hall,MIT Chapel,1.023,3.25
+70 Amherst Street,MIT Chapel,0.845,3.7833
+Ashdown House,MIT Chapel,0.974,4.0167
+Edgerton House,MIT Chapel,0.682,3.2167
+Graduate Tower,MIT Chapel,1.306,4.7167
+Sidney-Pacific,MIT Chapel,1.085,4.75
+Tang Hall,MIT Chapel,1.447,5.0167
+The Warehouse,MIT Chapel,0.922,4.3167
+Westgate Apartments,MIT Chapel,1.3,4.3333
+100 Memorial,MIT Chapel,0.954,5.6
+Baker House,Hyatt Regency Cambridge,1.004,3.3667
+Burton Conner,Hyatt Regency Cambridge,0.83,3.7667
+East Campus,Hyatt Regency Cambridge,1.853,4.1333
+MacGregor House,Hyatt Regency Cambridge,0.749,3.7167
+Maseeh Hall,Hyatt Regency Cambridge,1.307,3.5167
+McCormick Hall,Hyatt Regency Cambridge,1.155,3.1
+New House,Hyatt Regency Cambridge,0.846,3.7167
+Next House,Hyatt Regency Cambridge,0.504,2.3667
+New Vassar,Hyatt Regency Cambridge,1.903,5.85
+Random Hall,Hyatt Regency Cambridge,1.487,4.5833
+Simmons Hall,Hyatt Regency Cambridge,0.494,1.55
+70 Amherst Street,Hyatt Regency Cambridge,1.84,4.35
+Ashdown House,Hyatt Regency Cambridge,1.73,4.9833
+Edgerton House,Hyatt Regency Cambridge,1.438,4.1833
+Graduate Tower,Hyatt Regency Cambridge,2.301,5.2833
+Sidney-Pacific,Hyatt Regency Cambridge,1.841,5.7167
+Tang Hall,Hyatt Regency Cambridge,0.277,1.6333
+The Warehouse,Hyatt Regency Cambridge,1.678,5.2833
+Westgate Apartments,Hyatt Regency Cambridge,0.39,2.0333
+100 Memorial,Hyatt Regency Cambridge,1.949,6.1667
+Baker House,MIT Furniture Exchange,1.565,4.1833
+Burton Conner,MIT Furniture Exchange,1.391,4.5833
+East Campus,MIT Furniture Exchange,2.414,4.9833
+MacGregor House,MIT Furniture Exchange,1.31,4.5333
+Maseeh Hall,MIT Furniture Exchange,1.868,4.35
+McCormick Hall,MIT Furniture Exchange,1.716,3.9167
+New House,MIT Furniture Exchange,1.407,4.5333
+Next House,MIT Furniture Exchange,1.119,3.8167
+New Vassar,MIT Furniture Exchange,1.445,5.1833
+Random Hall,MIT Furniture Exchange,1.527,5.3167
+Simmons Hall,MIT Furniture Exchange,1.109,2.9833
+70 Amherst Street,MIT Furniture Exchange,2.401,5.2
+Ashdown House,MIT Furniture Exchange,1.12,3.6167
+Edgerton House,MIT Furniture Exchange,1.411,4.3833
+Graduate Tower,MIT Furniture Exchange,2.862,6.1167
+Sidney-Pacific,MIT Furniture Exchange,1.067,3.35
+Tang Hall,MIT Furniture Exchange,0.838,2.4667
+The Warehouse,MIT Furniture Exchange,1.22,4.6167
+Westgate Apartments,MIT Furniture Exchange,1.005,3.4667
+100 Memorial,MIT Furniture Exchange,2.51,7.0167
+Baker House,Veterans Memorial Pool,1.859,5.0333
+Burton Conner,Veterans Memorial Pool,1.685,5.4333
+East Campus,Veterans Memorial Pool,2.708,5.8333
+MacGregor House,Veterans Memorial Pool,1.604,5.3833
+Maseeh Hall,Veterans Memorial Pool,2.162,5.2167
+McCormick Hall,Veterans Memorial Pool,2.01,4.7667
+New House,Veterans Memorial Pool,1.701,5.3833
+Next House,Veterans Memorial Pool,1.413,4.6667
+New Vassar,Veterans Memorial Pool,1.882,7.4167
+Random Hall,Veterans Memorial Pool,2.396,6.85
+Simmons Hall,Veterans Memorial Pool,1.403,3.85
+70 Amherst Street,Veterans Memorial Pool,2.695,6.05
+Ashdown House,Veterans Memorial Pool,1.557,5.85
+Edgerton House,Veterans Memorial Pool,2.347,6.4333
+Graduate Tower,Veterans Memorial Pool,3.156,6.9333
+Sidney-Pacific,Veterans Memorial Pool,1.504,5.5667
+Tang Hall,Veterans Memorial Pool,1.132,3.3333
+The Warehouse,Veterans Memorial Pool,1.657,6.85
+Westgate Apartments,Veterans Memorial Pool,1.299,4.3167
+100 Memorial,Veterans Memorial Pool,2.804,7.8667
+Baker House,Great Dome,2.229,7.65
+Burton Conner,Great Dome,2.055,8.0667
+East Campus,Great Dome,1.143,4.75
+MacGregor House,Great Dome,1.974,8.0
+Maseeh Hall,Great Dome,0.443,3.0167
+McCormick Hall,Great Dome,0.537,3.6167
+New House,Great Dome,1.43,5.4167
+Next House,Great Dome,1.319,4.9333
+New Vassar,Great Dome,1.052,5.15
+Random Hall,Great Dome,0.636,3.9
+Simmons Hall,Great Dome,0.928,3.5167
+70 Amherst Street,Great Dome,0.49,2.75
+Ashdown House,Great Dome,0.879,4.2833
+Edgerton House,Great Dome,0.587,3.4833
+Graduate Tower,Great Dome,1.591,5.8833
+Sidney-Pacific,Great Dome,0.99,5.0167
+Tang Hall,Great Dome,1.352,5.2833
+The Warehouse,Great Dome,0.827,4.5833
+Westgate Apartments,Great Dome,1.205,4.6
+100 Memorial,Great Dome,0.599,4.5667
+Baker House,MIT Sloan School of Management,3.083,8.4167
+Burton Conner,MIT Sloan School of Management,2.909,8.8167
+East Campus,MIT Sloan School of Management,0.824,3.3333
+MacGregor House,MIT Sloan School of Management,2.828,8.7667
+Maseeh Hall,MIT Sloan School of Management,1.241,3.8667
+McCormick Hall,MIT Sloan School of Management,1.335,4.4667
+New House,MIT Sloan School of Management,2.257,6.85
+Next House,MIT Sloan School of Management,2.146,6.3667
+New Vassar,MIT Sloan School of Management,1.833,6.35
+Random Hall,MIT Sloan School of Management,1.417,5.35
+Simmons Hall,MIT Sloan School of Management,1.755,4.95
+70 Amherst Street,MIT Sloan School of Management,0.404,2.5
+Ashdown House,MIT Sloan School of Management,1.66,5.4833
+Edgerton House,MIT Sloan School of Management,1.368,4.6833
+Graduate Tower,MIT Sloan School of Management,0.244,1.6833
+Sidney-Pacific,MIT Sloan School of Management,1.771,6.2167
+Tang Hall,MIT Sloan School of Management,2.14,4.9167
+The Warehouse,MIT Sloan School of Management,1.608,5.7833
+Westgate Apartments,MIT Sloan School of Management,2.032,6.0333
+100 Memorial,MIT Sloan School of Management,0.462,4.0167
+Baker House,MIT Medical Urgent Care Service,3.183,10.15
+Burton Conner,MIT Medical Urgent Care Service,3.009,10.5667
+East Campus,MIT Medical Urgent Care Service,0.258,2.15
+MacGregor House,MIT Medical Urgent Care Service,2.928,10.5
+Maseeh Hall,MIT Medical Urgent Care Service,1.341,5.6167
+McCormick Hall,MIT Medical Urgent Care Service,1.435,6.2167
+New House,MIT Medical Urgent Care Service,2.082,6.8167
+Next House,MIT Medical Urgent Care Service,1.971,6.3333
+New Vassar,MIT Medical Urgent Care Service,1.658,6.3167
+Random Hall,MIT Medical Urgent Care Service,1.242,5.3333
+Simmons Hall,MIT Medical Urgent Care Service,1.58,4.9333
+70 Amherst Street,MIT Medical Urgent Care Service,0.146,1.5333
+Ashdown House,MIT Medical Urgent Care Service,1.485,5.45
+Edgerton House,MIT Medical Urgent Care Service,1.193,4.65
+Graduate Tower,MIT Medical Urgent Care Service,0.322,3.5833
+Sidney-Pacific,MIT Medical Urgent Care Service,1.596,6.1833
+Tang Hall,MIT Medical Urgent Care Service,2.24,6.65
+The Warehouse,MIT Medical Urgent Care Service,1.433,5.75
+Westgate Apartments,MIT Medical Urgent Care Service,1.857,6.0
+100 Memorial,MIT Medical Urgent Care Service,0.204,3.1
+Baker House,Walker Memorial,2.954,8.6167
+Burton Conner,Walker Memorial,2.78,9.0167
+East Campus,Walker Memorial,0.014,0.2333
+MacGregor House,Walker Memorial,2.699,8.9667
+Maseeh Hall,Walker Memorial,1.449,4.6
+McCormick Hall,Walker Memorial,1.543,5.1833
+New House,Walker Memorial,2.155,6.3667
+Next House,Walker Memorial,2.044,5.8833
+New Vassar,Walker Memorial,1.731,5.85
+Random Hall,Walker Memorial,1.315,4.85
+Simmons Hall,Walker Memorial,1.653,4.4833
+70 Amherst Street,Walker Memorial,0.125,0.9333
+Ashdown House,Walker Memorial,1.558,4.9833
+Edgerton House,Walker Memorial,1.266,4.1833
+Graduate Tower,Walker Memorial,0.426,3.4333
+Sidney-Pacific,Walker Memorial,1.669,5.7167
+Tang Hall,Walker Memorial,2.348,5.6333
+The Warehouse,Walker Memorial,1.506,5.2833
+Westgate Apartments,Walker Memorial,1.93,5.55
+100 Memorial,Walker Memorial,0.234,2.75
+Baker House,MIT Department of Mathematics,2.721,6.9167
+Burton Conner,MIT Department of Mathematics,2.547,7.3167
+East Campus,MIT Department of Mathematics,0.389,1.2333
+MacGregor House,MIT Department of Mathematics,2.466,7.2667
+Maseeh Hall,MIT Department of Mathematics,0.879,2.4167
+McCormick Hall,MIT Department of Mathematics,0.973,3.0167
+New House,MIT Department of Mathematics,2.563,7.2667
+Next House,MIT Department of Mathematics,2.211,5.3333
+New Vassar,MIT Department of Mathematics,1.888,5.8833
+Random Hall,MIT Department of Mathematics,1.472,4.6333
+Simmons Hall,MIT Department of Mathematics,1.764,4.2667
+70 Amherst Street,MIT Department of Mathematics,0.376,1.4333
+Ashdown House,MIT Department of Mathematics,1.715,5.0333
+Edgerton House,MIT Department of Mathematics,1.423,4.2167
+Graduate Tower,MIT Department of Mathematics,0.837,2.35
+Sidney-Pacific,MIT Department of Mathematics,1.826,5.75
+Tang Hall,MIT Department of Mathematics,1.778,3.3833
+The Warehouse,MIT Department of Mathematics,1.663,5.3333
+Westgate Apartments,MIT Department of Mathematics,2.097,4.9833
+100 Memorial,MIT Department of Mathematics,0.485,3.25
+Baker House,MIT Sailing Pavilion,2.436,6.7833
+Burton Conner,MIT Sailing Pavilion,2.262,7.2
+East Campus,MIT Sailing Pavilion,1.792,4.4833
+MacGregor House,MIT Sailing Pavilion,2.181,7.15
+Maseeh Hall,MIT Sailing Pavilion,0.594,2.3
+McCormick Hall,MIT Sailing Pavilion,0.688,2.9
+New House,MIT Sailing Pavilion,2.278,7.15
+Next House,MIT Sailing Pavilion,1.926,5.2167
+New Vassar,MIT Sailing Pavilion,1.603,5.7667
+Random Hall,MIT Sailing Pavilion,1.187,4.5167
+Simmons Hall,MIT Sailing Pavilion,1.479,4.15
+70 Amherst Street,MIT Sailing Pavilion,1.779,4.7
+Ashdown House,MIT Sailing Pavilion,1.43,4.9
+Edgerton House,MIT Sailing Pavilion,1.138,4.1
+Graduate Tower,MIT Sailing Pavilion,2.24,5.6333
+Sidney-Pacific,MIT Sailing Pavilion,1.541,5.6333
+Tang Hall,MIT Sailing Pavilion,1.493,3.25
+The Warehouse,MIT Sailing Pavilion,1.378,5.2
+Westgate Apartments,MIT Sailing Pavilion,1.812,4.8667
+100 Memorial,MIT Sailing Pavilion,1.888,6.5167
+Baker House,The Muddy Charles Pub,2.928,8.35
+Burton Conner,The Muddy Charles Pub,2.754,8.7667
+East Campus,The Muddy Charles Pub,0.112,0.7667
+MacGregor House,The Muddy Charles Pub,2.673,8.7
+Maseeh Hall,The Muddy Charles Pub,1.395,4.2
+McCormick Hall,The Muddy Charles Pub,1.489,4.8
+New House,The Muddy Charles Pub,2.129,6.1167
+Next House,The Muddy Charles Pub,2.018,5.6333
+New Vassar,The Muddy Charles Pub,1.705,5.5833
+Random Hall,The Muddy Charles Pub,1.289,4.6
+Simmons Hall,The Muddy Charles Pub,1.627,4.2167
+70 Amherst Street,The Muddy Charles Pub,0.099,0.9833
+Ashdown House,The Muddy Charles Pub,1.532,4.7333
+Edgerton House,The Muddy Charles Pub,1.24,3.9167
+Graduate Tower,The Muddy Charles Pub,0.4,3.4833
+Sidney-Pacific,The Muddy Charles Pub,1.643,5.45
+Tang Hall,The Muddy Charles Pub,2.294,5.25
+The Warehouse,The Muddy Charles Pub,1.48,5.0333
+Westgate Apartments,The Muddy Charles Pub,1.904,5.3
+100 Memorial,The Muddy Charles Pub,0.208,2.8
+Baker House,Tudor Dog Park,2.352,6.1833
+Burton Conner,Tudor Dog Park,2.178,6.5833
+East Campus,Tudor Dog Park,1.919,7.25
+MacGregor House,Tudor Dog Park,2.097,6.5333
+Maseeh Hall,Tudor Dog Park,1.219,5.5167
+McCormick Hall,Tudor Dog Park,1.313,6.1167
+New House,Tudor Dog Park,2.194,6.5333
+Next House,Tudor Dog Park,1.906,5.8
+New Vassar,Tudor Dog Park,0.636,2.7667
+Random Hall,Tudor Dog Park,0.659,3.0167
+Simmons Hall,Tudor Dog Park,1.546,5.3
+70 Amherst Street,Tudor Dog Park,1.842,6.9333
+Ashdown House,Tudor Dog Park,0.463,2.1667
+Edgerton House,Tudor Dog Park,0.602,2.3167
+Graduate Tower,Tudor Dog Park,2.367,8.3333
+Sidney-Pacific,Tudor Dog Park,0.199,1.0833
+Tang Hall,Tudor Dog Park,1.625,4.4667
+The Warehouse,Tudor Dog Park,0.411,2.2
+Westgate Apartments,Tudor Dog Park,1.792,5.4667
+100 Memorial,Tudor Dog Park,1.951,8.75
+Baker House,MIT Plasma Science and Fusion Center,2.284,7.1833
+Burton Conner,MIT Plasma Science and Fusion Center,2.11,7.5833
+East Campus,MIT Plasma Science and Fusion Center,1.356,5.0167
+MacGregor House,MIT Plasma Science and Fusion Center,2.029,7.5333
+Maseeh Hall,MIT Plasma Science and Fusion Center,0.656,3.2833
+McCormick Hall,MIT Plasma Science and Fusion Center,0.75,3.8833
+New House,MIT Plasma Science and Fusion Center,1.485,4.95
+Next House,MIT Plasma Science and Fusion Center,1.374,4.4667
+New Vassar,MIT Plasma Science and Fusion Center,0.463,1.8667
+Random Hall,MIT Plasma Science and Fusion Center,0.453,1.7667
+Simmons Hall,MIT Plasma Science and Fusion Center,0.983,3.05
+70 Amherst Street,MIT Plasma Science and Fusion Center,1.285,4.5833
+Ashdown House,MIT Plasma Science and Fusion Center,0.29,1.0
+Edgerton House,MIT Plasma Science and Fusion Center,0.039,0.2
+Graduate Tower,MIT Plasma Science and Fusion Center,1.804,6.0833
+Sidney-Pacific,MIT Plasma Science and Fusion Center,0.401,1.7333
+Tang Hall,MIT Plasma Science and Fusion Center,1.407,4.8167
+The Warehouse,MIT Plasma Science and Fusion Center,0.238,1.3
+Westgate Apartments,MIT Plasma Science and Fusion Center,1.26,4.1167
+100 Memorial,MIT Plasma Science and Fusion Center,1.394,6.4
